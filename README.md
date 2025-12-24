@@ -18,7 +18,7 @@ Object detection in construction sites presents significant challenges due to de
 
 ### 2. Overview
 <p align="center">
-   <img width="1587" height="627" alt="image" src="123.png" />
+   <img width="1587" height="627" alt="image" src="main-figure.png" />
 
  <br />
 </p>
