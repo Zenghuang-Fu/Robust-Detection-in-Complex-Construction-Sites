@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Authors -->
-Zenghuang Fu · Jinming Yang · Xiaofeng Han · Weiliang Meng · Xiaopeng Zhang 
+Zenghuang Fu · Jinming Yang · Xiaofeng Han · Zhe Feng · Muyang Zhang · Changwei Wang · Weiliang Meng · Jiguang Zhang · Xiaopeng Zhang 
 
 
 </div>
